@@ -66,3 +66,15 @@ header{
       
 }
 
+article {
+    border: solid;
+    margin: 10px;
+    padding: 10px;
+}
+
+#coming-soon {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
