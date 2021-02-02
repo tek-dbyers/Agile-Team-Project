@@ -5,9 +5,9 @@ function getProducts() {
 }
 let products = getProducts();
 let comingSoon = document.querySelector('#coming-soon');
-if (products === []) {
-    
-}
+if (products.length === 0 ) {
+    comingSoon.style.visibility = 'visible'
+} 
 
 /*
 function myFunction() {
