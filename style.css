@@ -76,5 +76,8 @@ article {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	visibility: hidden;
+	font-size: x-large;
+	height: calc(100vh - 62px);
 }
 
