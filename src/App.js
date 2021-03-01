@@ -1,7 +1,26 @@
 import logo from './logo.svg';
 import './App.css';
+import './Components/Products';
 
 function App() {
+
+  function getProducts() {
+
+    return [];
+
+  }
+  let products = getProducts();
+  let comingSoon = document.querySelector('#coming-soon');
+  if (products === []) {
+
+  }
+
+  /*
+  function myFunction() {
+      document.getElementsByClassName("button").innerHTML = "Item added to cart";
+  }
+  */
+
   return (
     <div className="App">
       <header className="App-header">
@@ -18,6 +37,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <Products />
     </div>
   );
 }
