@@ -1,0 +1,704 @@
+[
+    {
+        "object": {
+            "id": "000001",
+            "name": "Steel Frame Fabric Drawer Dresser - 7 Drawers",
+            "description": [
+                "7 Drawer fabric storage organizer for closets, bedrooms, playrooms, and more",
+                "Sturdy steel frame wood top with smooth finish",
+                "Soft fabric drawers with Easy pull-out fabric handles",
+                "Adjustable-height plastic feet to prevent wobbling and floor damage"
+            ],
+            "color": "gray/white",
+            "dimensions": {
+                "length": 25,
+                "width": 11.87,
+                "height": 28.75
+            },
+            "weight": 18.61,
+            "manufacturer": "Seseno",
+            "price": 69.99,
+            "image_paths": [
+                "/assets/product_images/000001/1.jpg",
+                "/assets/product_images/000001/2.jpg",
+                "/assets/product_images/000001/3.jpg",
+                "/assets/product_images/000001/4.jpg",
+                "/assets/product_images/000001/5.jpg"
+            ],
+            "tags": [
+                "dresser",
+                "steel_frame",
+                "drawers",
+                "storage",
+                "bedroom"
+            ]
+        },
+        "quantity": 30
+    },
+    {
+        "object": {
+            "id": "000002",
+            "name": "Rane Collection Convertible Sofa",
+            "description": [
+                "Perfectly sized for small spaces and the simple yet unique contemporary design lends a relaxed and sophisticated look.",
+                "Upholstered in quality polyester fabric with Modern design",
+                "Multi-Fuctions Living Room Sofa easy converts from sitting to lounging and sleeping position.",
+                "Easy set up by Click-Clack Technology",
+                "Bed Dimensions: 66.1\" x 37.6\" x 15.0\""
+            ],
+            "color": "charcoal",
+            "dimensions": {
+                "length": 66.1,
+                "width": 33.1,
+                "height": 29.5
+            },
+            "weight": 60.4,
+            "manufacturer": "Serta",
+            "price": 159.99,
+            "image_paths": [
+                "/assets/product_images/000002/1.jpg",
+                "/assets/product_images/000002/2.jpg",
+                "/assets/product_images/000002/3.jpg",
+                "/assets/product_images/000002/4.jpg",
+                "/assets/product_images/000002/5.jpg"
+            ],
+            "tags": [
+                "sofa",
+                "couch",
+                "bed",
+                "bedroom",
+                "living_room"
+            ]
+        },
+        "quantity": 20
+    },
+    {
+        "object": {
+            "id": "000003",
+            "name": "4-Tier Ladder Shelf",
+            "description": [
+                "SOMETHING CERTAIN: Some furniture looks good, but isn’t very practical. Others are functional, but look cold and boring. Not this Ladder shelf, however—with rustic, warm wood tones and 4 stable shelves, you get the best of both worlds.",
+                "PERFECT DESIGN: Sturdy matte-black steel frame, x-bars, and hazelnut brown shelves—the mix of styles makes this elegant bookcase stand out; it boasts individual character, remarkable durability, and a great bearing capacity of 11 lb per level.",
+                "LET YOUR IMAGINATION RUN WILD: The steps get wider from top to bottom, offering plenty of space for creativity: line the shelves with green plants, books, decorations, or picture frames for a unique storage rack.",
+                "NO PAIN ASSEMBLY: Not assembly-inclined? Don’t worry, you can still do this: with clear instructions, simply put the numbered parts together and attach the unit to the wall with the included tool and anti-tip kit—you’ll finish the assembly with ease.",
+                "WHAT’S INCLUDED: A 4-tier storage shelf with an industrial design from our ALINRU Collection, an assembly kit for a simple assembly process, and a versatile storage option for your living room, balcony, home study, and more."
+            ],
+            "color": "hazelnut brown + black",
+            "dimensions": {
+                "length": 22.1,
+                "width": 13.3,
+                "height": 54.1
+            },
+            "weight": 25.4,
+            "manufacturer": "VASAGLE",
+            "price": 62.99,
+            "image_paths": [
+                "/assets/product_images/000003/1.jpg",
+                "/assets/product_images/000003/2.jpg",
+                "/assets/product_images/000003/3.jpg",
+                "/assets/product_images/000003/4.jpg",
+                "/assets/product_images/000003/5.jpg"
+            ],
+            "tags": [
+                "shelf",
+                "shelves",
+                "storage",
+                "bathroom",
+                "outdoor",
+                "living_room",
+                "kitchen"
+            ]
+        },
+        "quantity": 40
+    },
+    {
+        "object": {
+            "id": "000004",
+            "name": "3-Piece Steel-Frame Wooden Round Table & Chair Set",
+            "description": [
+                "SPACE-SAVING DESIGN: This dining set is functional yet unobtrusive, with chairs that fit perfectly to the table's edges to make it perfect for any kitchen, dining room, or living room.",
+                "BUILT-IN STORAGE: Designed with a multipurpose lower shelf perfect for holding wine, food trays, and more directly under the frame.",
+                "ERGONOMIC BACKREST: Chairs are designed with a curved backrest to promote a healthy, comfortable posture; high quality also includes a 330-pound weight capacity per chair.",
+                "STURDY CONSTRUCTION: Table top and seats are built with durable engineered wood, both with solid iron frames for the reliable set to last for years to come.",
+                "COMPACT SET: 3-piece wooden table and chair set is the perfect addition to small areas, such as dorms and apartments, for an intimate meal with your favorite guest.",
+                "Chair Weight Capacity: 330 lbs.",
+                "Table Weight Capacity: 110 lbs."
+            ],
+            "color": "black",
+            "dimensions": {
+                "length": 31,
+                "width": 20.75,
+                "height": 29.5
+            },
+            "weight": 37.5,
+            "manufacturer": "Best Choice Products",
+            "price": 94.99,
+            "image_paths": [
+                "/assets/product_images/000004/1.jpg",
+                "/assets/product_images/000004/2.jpg",
+                "/assets/product_images/000004/3.jpg",
+                "/assets/product_images/000004/4.jpg"
+            ],
+            "tags": [
+                "table",
+                "chair",
+                "chairs",
+                "kitchen",
+                "dining",
+                "dining_room"
+            ]
+        },
+        "quantity": 50
+    },
+    {
+        "object": {
+            "id": "000005",
+            "name": "Oxford Coffee Table",
+            "description": [
+                "Bottom Shelf for Additional Storage",
+                "Complements any Decor",
+                "Easy Assembly"
+            ],
+            "color": "gray",
+            "dimensions": {
+                "length": 39.5,
+                "width": 21.75,
+                "height": 17.75
+            },
+            "weight": 34,
+            "manufacturer": "Convenience Concepts",
+            "price": 120.12,
+            "image_paths": [
+                "/assets/product_images/000005/1.jpg",
+                "/assets/product_images/000005/2.jpg",
+                "/assets/product_images/000005/3.jpg",
+                "/assets/product_images/000005/4.jpg"
+            ],
+            "tags": [
+                "table",
+                "living_room"
+            ]
+        },
+        "quantity": 10000
+    },
+    {
+        "object": {
+            "id": "000006",
+            "name": "Rustic Lift Top Coffee Table with Hidden Compartment & Storage Space",
+            "description": [
+                "Lift-top design: The tabletop of this coffee table can be effortlessly lifted up and forward to create a workspace when sitting on your sofa. The high-quality metal mechanism enables the tabletop to be lifted up or lowered down easily and without noise.",
+                "Storage master: A hidden storage compartment beneath the top is designed to store your often-used items like laptop, chess, remote controllers, game controllers and suchlike under the top when not in use, keeping them handy and dirt-free. The bottom open shelf without baffles can hold blankets, books, snacks and knick-knacks.",
+                "Functional accent table: With this versatile lift top table, you don’t need to lean forward so hard in order to use your laptop, write or dine on the table while relaxing on the couch. The contemporary look is simple in shape and chic in color, which can seamlessly compatible with your room décor. It can be a practical accent coffee table in the living room, office, reception room or limited space.",
+                "Solid table construction: This lift top coffee table is constructed of CARB P2 compliant MDF and heavy-duty metal mechanism. With solid construction and selected materials, this coffee table will not wobble or tipping once correctly assembled."
+            ],
+            "color": "rustic brown",
+            "dimensions": {
+                "length": 38.6,
+                "width": 19.7,
+                "height": 16.5
+            },
+            "weight": 43.2,
+            "manufacturer": "YAHEETECH ",
+            "price": 159.99,
+            "image_paths": [
+                "/assets/product_images/000006/1.jpg",
+                "/assets/product_images/000006/2.jpg",
+                "/assets/product_images/000006/3.jpg",
+                "/assets/product_images/000006/4.jpg"
+            ],
+            "tags": [
+                "living_room",
+                "table",
+                "storage"
+            ]
+        },
+        "quantity": 47
+    },
+    {
+        "object": {
+            "id": "000007",
+            "name": "7 Pieces Patio PE Rattan Sofa Chair Set",
+            "description": [
+                "【MODERN DESIGN & COMFORTABLE】 Modern design outdoor sectional sofa with High-quality thickened sponge-filled seat and virgin cotton-filled back cushions give you extra comfort, enjoy your leisure time whatever sitting or lying and the covers can be removed for easy clean and maintain.",
+                "【STURDY & DURABLE】 Our rattan patio furniture set is made of brown/black PE rattan and strong steel frame, It is durable enough to withstand rain and wind for long time using. toughened glass is strong and light, which can be swabbed or washed with water.",
+                "【SEPARABLE & MULTIFUNCTIONAL】 This patio set is shipped from the US and you will receive two boxes , one box contained three pieces(3 sofa), another box contained four pieces(3 sofa and 1 table). This moveable design allows it to adjust a required combination and change to different shapes for seating or lying.",
+                "【EASY & QUICK ASSEMBLE】 Assemble easily and no need to maintenance, no worry to split, crack, fade, rot and deteriorate."
+            ],
+            "color": "gray",
+            "dimensions": {
+                "length": 54,
+                "width": 107,
+                "height": 26
+            },
+            "weight": 0,
+            "manufacturer": "Amolife",
+            "price": 499.98,
+            "image_paths": [
+                "/assets/product_images/000007/1.jpg",
+                "/assets/product_images/000007/2.jpg",
+                "/assets/product_images/000007/3.jpg",
+                "/assets/product_images/000007/4.jpg"
+            ],
+            "tags": [
+                "outdoor",
+                "seating",
+                "couch",
+                "sofa",
+                "table"
+            ]
+        },
+        "quantity": 123
+    },
+    {
+        "object": {
+            "id": "000008",
+            "name": "Glenwood Rustic Farmhouse Glass Door Highboy Fireplace TV Stand",
+            "description": [
+                "Top surface supports up to 150 Ibs., 2 top cubbies support up to 75 Ibs. each, and 2 adjustable shelves support up to 30 Ibs. each",
+                "Supports TVs up to 65” and 2 cord management ports keep cables tidy",
+                "Fireplace display and heat can be operated individually and can heat up to 400 sq. ft. (4600 BTU)",
+                "Electric, plug-in fireplace; no gas hookup required",
+                "Removable fireplace insert: 17.625” H x 15.75” D x 18” L"
+            ],
+            "color": "brown",
+            "dimensions": {
+                "length": 58,
+                "width": 15.75,
+                "height": 32
+            },
+            "weight": 120,
+            "manufacturer": "Walker Edison",
+            "price": 322.92,
+            "image_paths": [
+                "/assets/product_images/000008/1.jpg",
+                "/assets/product_images/000008/2.jpg",
+                "/assets/product_images/000008/3.jpg",
+                "/assets/product_images/000008/4.jpg"
+            ],
+            "tags": [
+                "living_room",
+                "tv_stand",
+                "storage"
+            ]
+        },
+        "quantity": 87
+    },
+    {
+        "object": {
+            "id": "000009",
+            "name": "Mid-Back Transparent Black Mesh Drafting Chair",
+            "description": [
+                "Get the most out of our work or creative space with a tall office chair to accommodate different table heights. Drafting stools have a taller gas cylinder that is ideal for lab technicians, architects, bank tellers and classrooms",
+                "Ergonomic adjustable height drafting chair with lumbar support",
+                "Flip-up arms allow you to rest your arms or make it an armless chair to slide underneath the desk",
+                "2-to-1 locking synchro-tilt - seat and back tilt in unison, full swivel seat, chrome height adjustable foot ring",
+                "Weight Capacity: 300 lbs."
+            ],
+            "color": "black",
+            "dimensions": {
+                "length": 28,
+                "width": 28,
+                "height": 49.5
+            },
+            "weight": 47,
+            "manufacturer": "Flash Furniture",
+            "price": 192.99,
+            "image_paths": [
+                "/assets/product_images/000009/1.jpg",
+                "/assets/product_images/000009/2.jpg",
+                "/assets/product_images/000009/3.jpg",
+                "/assets/product_images/000009/4.jpg"
+            ],
+            "tags": [
+                "office",
+                "chair"
+            ]
+        },
+        "quantity": 48
+    },
+    {
+        "object": {
+            "id": "000010",
+            "name": "Capri Comfortable Sleep 12 Inch CertiPUR-US Certified Memory Foam & Pocket Spring Mattress",
+            "description": [
+                "Twin size",
+                "Fabric, Felt, Foam, Metal, Polyester",
+                "MODERN LIVING MADE EASY >>> Sleep comfortably atop this twin size 12 inch CertiPUR-US Certified foam mattress with memory foam for peaceful sleeping night after night. The memory foam barrier adds comfort you can feel over a standard spring mattress",
+                "Motion reducing 10 inch pocket spring coils, memory foam padding, tight top covering",
+                "Boxed mattress fully expands in 48-72 hours, designed for platform beds and trundles",
+                "Modern mattress-in-a-box packaging allows you to carry to your bedroom without much hassle"
+            ],
+            "color": "",
+            "dimensions": {
+                "length": 75,
+                "width": 39,
+                "height": 12
+            },
+            "weight": 57,
+            "manufacturer": "Flash Furniture",
+            "price": 179.99,
+            "image_paths": [
+                "/assets/product_images/000010/1.jpg",
+                "/assets/product_images/000010/2.jpg",
+                "/assets/product_images/000010/3.jpg",
+                "/assets/product_images/000010/4.jpg"
+            ],
+            "tags": [
+                "bed",
+                "bedroom",
+                "mattress"
+            ]
+        },
+        "quantity": 23
+    },
+    {
+        "object": {
+            "id": "000011",
+            "name": "3 Drawer Mobile File Cabinet with Lock",
+            "description": [
+                "【STYLISH & PRACTICAL】Featuring simple stylish appearance, this 3 drawer metal file cabinet with lock fits under most desks, keep your workspace tidy and clean",
+                "【INTERLOCK SYSTEM】One lock with 2 keys secures all 3 drawers, two stationery drawers with a bonus pencil tray and one file drawer, add security to your home and office",
+                "【ORGANIZE YOUR WORKSPACE】Equipped with 3 removable hanging bars, the filing cabinet can accommodate letter size, legal size and A4 hanging file folders through free combination",
+                "【ADD MORE MOBILITY】This mobile file cabinet arrives with five casters, including two front casters with braking function and one center caster to prevent tipping",
+                "【EASY TO ASSEMBLE】Fully assembled except the casters."
+            ],
+            "color": "white",
+            "dimensions": {
+                "length": 15.35,
+                "width": 18.9,
+                "height": 23.62
+            },
+            "weight": 40.7,
+            "manufacturer": "DEVAISE",
+            "price": 125.99,
+            "image_paths": [
+                "/assets/product_images/000011/1.jpg",
+                "/assets/product_images/000011/2.jpg",
+                "/assets/product_images/000011/3.jpg",
+                "/assets/product_images/000011/4.jpg",
+                "/assets/product_images/000011/5.jpg",
+                "/assets/product_images/000011/6.jpg"
+            ],
+            "tags": [
+                "office",
+                "storage"
+            ]
+        },
+        "quantity": 17
+    },
+    {
+        "object": {
+            "id": "000012",
+            "name": "Modern Simple Style 55\" Computer Desk",
+            "description": [
+                "Modern Design with Stability: A sturdy desk designed in elegance. Desktop is waterproof and anti scratch, very easy to clean. Desk frame is made of heavy duty powder coated steel which ensures stability and durability.",
+                "Wide Desktop provides ample space for computer, monitor, printer and other office supplies as computer desk, study desk, gaming desk, writing table, picnic table etc.",
+                "Cable Management Design: An open metal slot on the computer desktop allows easy access to power cords, cables and keeps wires organized.",
+                "Easy to Assemble: Simple in construction and quick in assembly, the package provides detailed assembly instructions and tools, and the entire process takes only 10 minutes."
+            ],
+            "color": "espresso",
+            "dimensions": {
+                "length": 55,
+                "width": 24,
+                "height": 30
+            },
+            "weight": 38.1,
+            "manufacturer": "Dryadalis",
+            "price": 149.99,
+            "image_paths": [
+                "/assets/product_images/000012/1.jpg",
+                "/assets/product_images/000012/2.jpg",
+                "/assets/product_images/000012/3.jpg",
+                "/assets/product_images/000012/4.jpg"
+            ],
+            "tags": [
+                "office",
+                "table",
+                "desk"
+            ]
+        },
+        "quantity": 27
+    },
+    {
+        "object": {
+            "id": "000013",
+            "name": "Cabot L-Shape Desk",
+            "description": [
+                "L-shaped desk provides plenty of room to work in either direction",
+                "Corner desk surface includes built-in wire management and a 4-port USB hub for connecting electronic devices",
+                "Storage cabinet features a stylish fluted glass door to conceal work materials",
+                "File drawer opens on smooth full-extension ball bearing slides for an easy reach to letter, legal and A4-size files",
+                "Box drawer organizes writing utensils, notepads and other small office supplies"
+            ],
+            "color": "modern walnut",
+            "dimensions": {
+                "length": 60,
+                "width": 60,
+                "height": 30
+            },
+            "weight": 146.3,
+            "manufacturer": "Bush Furniture",
+            "price": 325.45,
+            "image_paths": [
+                "/assets/product_images/000013/1.jpg",
+                "/assets/product_images/000013/2.jpg",
+                "/assets/product_images/000013/3.jpg",
+                "/assets/product_images/000013/4.jpg"
+            ],
+            "tags": [
+                "office",
+                "desk",
+                "storage"
+            ]
+        },
+        "quantity": 3
+    },
+    {
+        "object": {
+            "id": "000014",
+            "name": "Key West Console Table with Drawers and Shelves",
+            "description": [
+                "Can be used in virtually any living space as a Console Table, Sofa Table or Entryway Table",
+                "Two box drawers with smooth ball bearing slides are perfect for organizing household items, office supplies and more",
+                "Middle shelf supports up to 25 pounds and can be raised or lowered to accommodate items of various sizes",
+                "Scratch-resistant surface offers a perfect place to display decorations with a weight capacity of 50 pounds",
+                "Unique X pattern accents on side panels create a casual charm that works well with coastal and farmhouse decor"
+            ],
+            "color": "pure white and shiplap gray",
+            "dimensions": {
+                "length": 47.2,
+                "width": 15.67,
+                "height": 30
+            },
+            "weight": 69.4,
+            "manufacturer": "Bush Furniture",
+            "price": 173.14,
+            "image_paths": [
+                "/assets/product_images/000014/1.jpg",
+                "/assets/product_images/000014/2.jpg",
+                "/assets/product_images/000014/3.jpg",
+                "/assets/product_images/000014/4.jpg"
+            ],
+            "tags": [
+                "living_room",
+                "hallway",
+                "table",
+                "shelf",
+                "shelves",
+                "storage",
+                "entryway"
+            ]
+        },
+        "quantity": 0
+    },
+    {
+        "object": {
+            "id": "000015",
+            "name": "Amy 5-Drawer Office Storage Cabinet with Shelves",
+            "description": [
+                "ORGANIZATION - 5 small drawers and 1 pull out door with shelf inside.",
+                "QUALITY - The Amy chest cabinet has five spacious drawers each one design with a routed handle making it smooth to slide open and close.",
+                "COMPACT - The compact design allows it to place in confined spaces.",
+                "TRANSPORTABLE - With its 4 rolling wheels, Amy can be transported from all around the room and/or into another.",
+                "EASY ASSEMBLY- All the necessary elements for assembly included together with the instructions."
+            ],
+            "color": "black",
+            "dimensions": {
+                "length": 30.7,
+                "width": 15.7,
+                "height": 26.3
+            },
+            "weight": 0,
+            "manufacturer": "Naomi Home",
+            "price": 114.99,
+            "image_paths": [
+                "/assets/product_images/000015/1.jpg",
+                "/assets/product_images/000015/2.jpg",
+                "/assets/product_images/000015/3.jpg",
+                "/assets/product_images/000015/4.jpg"
+            ],
+            "tags": [
+                "office",
+                "storage",
+                "drawers",
+                "cabinet"
+            ]
+        },
+        "quantity": 14
+    },
+    {
+        "object": {
+            "id": "000016",
+            "name": "Brighton Queen Size Tufted Upholstered Platform Bed",
+            "description": [
+                "CHARMING PIECE >>> Add a dose of charm and flair to your bedroom with this upholstered platform bed. The panel headboard has button tufted upholstery and beautiful nailhead trimming. Cutout sides on the headboard complete the look on this statement piece.",
+                "Polyester fabric, plywood frame construction, 15 wooden support slats",
+                "Button tufted headboard, nail trim, low profile base, open design, no box spring required",
+                "Transitional style fits both modern and traditional bedrooms"
+            ],
+            "color": "beige",
+            "dimensions": {
+                "length": 85.75,
+                "width": 65.75,
+                "height": 50.75
+            },
+            "weight": 120,
+            "manufacturer": "Flash Furniture",
+            "price": 249.99,
+            "image_paths": [
+                "/assets/product_images/000016/1.jpg",
+                "/assets/product_images/000016/2.jpg",
+                "/assets/product_images/000016/3.jpg",
+                "/assets/product_images/000016/4.jpg"
+            ],
+            "tags": [
+                "bedroom",
+                "bed"
+            ]
+        },
+        "quantity": 19
+    },
+    {
+        "object": {
+            "id": "000017",
+            "name": "Triple Wide 5-Shelf Bookcase",
+            "description": [
+                "【Triple & Open Design】: It measures 70” H x 70.86” W x 12.59” D. This 14 open Bookshelves showcase your favorite books, records, or decorative pieces all in one place.",
+                "【Modern & industrial charm】: It pairs a black steel frame with fourteen retro brown manufactured wood shelves. This industrial-inspired bookshelves, for an eye-catching display vignette.",
+                "【DURABLE AND STURDY】: Built from durable engineered wood with a sturdy steel frame, reinforced by crossbar on the back, our elegant bookcase is built to last and is sturdy enough to hold all of your items.",
+                "【Specifiction】: Compartments height 14.2-inch. Each shelf (14 shelf) can accommodate up to 75 lbs. Self-leveling feet to stabilize on level surface, it is quite stable even on unlevel ground."
+            ],
+            "color": "brown and black",
+            "dimensions": {
+                "length": 70.86,
+                "width": 12.59,
+                "height": 70
+            },
+            "weight": 107,
+            "manufacturer": "Tribesigns",
+            "price": 249.99,
+            "image_paths": [
+                "/assets/product_images/000017/1.jpg",
+                "/assets/product_images/000017/2.jpg",
+                "/assets/product_images/000017/3.jpg",
+                "/assets/product_images/000017/4.jpg"
+            ],
+            "tags": [
+                "shelf",
+                "shelves",
+                "storage",
+                "living_room"
+            ]
+        },
+        "quantity": 13
+    },
+    {
+        "object": {
+            "id": "000018",
+            "name": "Signature Design Willowton Nightstand",
+            "description": [
+                "TWO TONE RUSTIC NIGHTSTAND: White nightstand with rustic chic flair is paired with a driftwood-style plank top for a light, dreamy look that is wonderfully easy on the eyes",
+                "BUILT-IN USB PORT: This rustic nightstand has a touch of convenient modern living with a slim USB charger port located on the back of the nightstand top",
+                "ANTIQUED DETAILS: Slightly distresssed whitewash finish and brass-tone ring-pull hardware give this nightstand a dreamy glow",
+                "STORAGE FOR SMALL SPACES: Small nightstand fits in most spaces",
+                "EASY ASSEMBLY: All you need is a screwdriver to attach the USB hub and your nightstand is ready to enjoy. Instructions included"
+            ],
+            "color": "white",
+            "dimensions": {
+                "length": 16,
+                "width": 24,
+                "height": 26
+            },
+            "weight": 60,
+            "manufacturer": "Ashley Furniture",
+            "price": 289.99,
+            "image_paths": [
+                "/assets/product_images/000018/1.jpg",
+                "/assets/product_images/000018/2.jpg",
+                "/assets/product_images/000018/3.jpg",
+                "/assets/product_images/000018/4.jpg"
+            ],
+            "tags": [
+                "bedroom",
+                "drawer",
+                "drawers",
+                "nightstand",
+                "storage"
+            ]
+        },
+        "quantity": 83
+    },
+    {
+        "object": {
+            "id": "000019",
+            "name": "Jules TV Stand",
+            "description": [
+                "Two (2) large cabinets feature tempered Glass doors with an elegant Trellis design and two (2) adjustable shelves for TV, audio, and video game Component storage; vertical cable management cutouts",
+                "VERSATILE design allows the piece to be used as an entertainment console, an Entry hall credenza, sideboard, or as a dining room server",
+                "Ideal for most 65\" flat panel TVs; easy to assemble; Weight Capacity:200 lbs",
+                "Design features include slightly distressed Finish, intricately cast door pulls, turned Bun feet, and architectural Moldings"
+            ],
+            "color": "teal",
+            "dimensions": {
+                "length": 63,
+                "width": 18,
+                "height": 35
+            },
+            "weight": 126,
+            "manufacturer": "Martin Svensson Home",
+            "price": 649.99,
+            "image_paths": [
+                "/assets/product_images/000019/1.jpg",
+                "/assets/product_images/000019/2.jpg",
+                "/assets/product_images/000019/3.jpg",
+                "/assets/product_images/000019/4.jpg"
+            ],
+            "tags": [
+                "living_room",
+                "tv_stand",
+                "cabinet",
+                "storage"
+            ]
+        },
+        "quantity": 49
+    },
+    {
+        "object": {
+            "id": "000020",
+            "name": "End Table with Drawers and Storage",
+            "description": [
+                "【Provide Additional Storage Space】It is designed with 2 smooth sliding drawers which can provide additional storage space for you to store some sundries. And you can find things immediately when you need them. Some small decors like lamp, vase and clock also can be placed on the tabletop.",
+                "【Sturdy Frame for Durable Use】Made of strong solid wood and high-quality density board, the nightstand is very stable and not easy to be deformed. With special veneer on the surface, the nightstand is scratch-resistant and anti-corrosion. And you can use this side table for long time.",
+                "【Multipurpose & Practical Table】 With space saving design, this nightstand can be placed in limited space in living room or bedroom to be a side table or coffee table. In addition, the pad under the feet of nightstand can prevent floor from scraping effectively. And the nightstand also is equipped with a tilting preventing device to prevent tilting and falling down.",
+                "【Retro & Concise Style】A perfect color match of upper part and leg of nightstand creates an atmosphere of elegance and retro. It is attractive for most people. And this nightstand will be a great fitting to a classic room and will make a perfect addition to the room.",
+                "【Easy to Assemble & Clean】The nightstand comes with an installation manual and all required accessories. It is easy to install by yourself in short time. With waterproof and scratch proof, the table is very convenient to clean with a damp cloth."
+            ],
+            "color": "walnut",
+            "dimensions": {
+                "length": 16,
+                "width": 16,
+                "height": 23.5
+            },
+            "weight": 23.5,
+            "manufacturer": "Giantex",
+            "price": 99.99,
+            "image_paths": [
+                "/assets/product_images/000020/1.jpg",
+                "/assets/product_images/000020/2.jpg",
+                "/assets/product_images/000020/3.jpg",
+                "/assets/product_images/000020/4.jpg",
+                "/assets/product_images/000020/5.jpg"
+            ],
+            "tags": [
+                "drawer",
+                "drawers",
+                "nightstand",
+                "end table",
+                "storage",
+                "bedroom",
+                "living_room"
+            ]
+        },
+        "quantity": 33
+    }
+]
