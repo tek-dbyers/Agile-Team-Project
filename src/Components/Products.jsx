@@ -1,6 +1,4 @@
 import react from 'react';
-import data from '../data.json';
-import Product from './Product';
 
 function Products() {
   return (
@@ -29,16 +27,30 @@ function Products() {
 
           <section>Product: Gallery
 
-                {/* <article class="product">
+                <article class="product">
               <h3>Product Name</h3>
               <div><a></a></div>
               <img src=""></img>
               <p>product Price: $100</p>
               <p>Description: </p>
               <button class="button" onclick="myFunction()">add to cart.</button>
-            </article> */}
-
-            {data.map((entry, i) => <Product key= {i} entry= {entry} />)}
+            </article>
+            <article class="product">
+              <h3>Product Name</h3>
+              <div><a></a></div>
+              <img src=""></img>
+              <p>product Price: $100</p>
+              <p>Description: </p>
+              <button class="button" onclick="myFunction()">add to cart.</button>
+            </article>
+            <article class="product">
+              <h3>Product Name</h3>
+              <div><a></a></div>
+              <img src=""></img>
+              <p>product Price: $100</p>
+              <p>Description: </p>
+              <button class="button" onclick="myFunction()">add to cart.</button>
+            </article>
 
 
           </section>
