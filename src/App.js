@@ -7,13 +7,13 @@ function App() {
 
   function getProducts() {
 
-    return [];
-
+    return document.getElementsByClassName('product');
   }
-  let products = getProducts();
-  let comingSoon = document.querySelector('#coming-soon');
-  if (products === []) {
 
+  let products = getProducts();
+
+  if (products.length > 0) {
+    document.getElementById('coming-soon').style.display = "none";
   }
 
   /*
