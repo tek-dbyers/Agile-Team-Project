@@ -19,24 +19,17 @@ function Products() {
       <body>
         <header>
           <h1 id="desert">Desert Ray Store</h1>
-          <nav>
-            <ul>
-              <li>Cart Page</li>
-            </ul>
+          <nav className="nav-bar">
+              <a>Home</a>
+              <a>Shop</a>
+              <a>Cart Page</a>
           </nav>
         </header>
         <main>
 
-          <section>Product: Gallery
+          <section>
+            <h1 className="furniture-gallery-header">Furniture Gallery</h1>
 
-                {/* <article class="product">
-              <h3>Product Name</h3>
-              <div><a></a></div>
-              <img src=""></img>
-              <p>product Price: $100</p>
-              <p>Description: </p>
-              <button class="button" onclick="myFunction()">add to cart.</button>
-            </article> */}
 
             {data.map((entry, i) => <Product key= {i} entry= {entry} />)}
 
